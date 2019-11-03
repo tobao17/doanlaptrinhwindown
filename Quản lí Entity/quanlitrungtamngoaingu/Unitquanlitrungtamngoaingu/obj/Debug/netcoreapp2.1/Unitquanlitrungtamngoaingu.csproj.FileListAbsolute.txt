@@ -1,0 +1,30 @@
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\bin\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.deps.json
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\bin\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.runtimeconfig.json
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\bin\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.runtimeconfig.dev.json
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\bin\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\bin\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.pdb
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\obj\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.csprojAssemblyReference.cache
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\obj\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.csproj.CoreCompileInputs.cache
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\obj\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.AssemblyInfoInputs.cache
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\obj\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.AssemblyInfo.cs
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\obj\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\obj\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.pdb
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\bin\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.deps.json
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\bin\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.runtimeconfig.json
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\bin\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.runtimeconfig.dev.json
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\bin\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\bin\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.pdb
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\obj\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.csprojAssemblyReference.cache
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\obj\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.csproj.CoreCompileInputs.cache
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\obj\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.AssemblyInfoInputs.cache
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\obj\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.AssemblyInfo.cs
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\obj\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\Unitquanlitrungtamngoaingu\obj\Debug\netcoreapp2.1\Unitquanlitrungtamngoaingu.pdb

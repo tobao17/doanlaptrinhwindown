@@ -1,0 +1,375 @@
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\quanlitrungtamngoaingu.exe.config
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\quanlitrungtamngoaingu.exe
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\quanlitrungtamngoaingu.pdb
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\MetroFramework.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.csprojAssemblyReference.cache
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.Properties.Resources.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.csproj.GenerateResource.cache
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.csproj.CoreCompileInputs.cache
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.csproj.CopyComplete
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.exe
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.pdb
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EntityFramework.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EntityFramework.xml
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChethong.UCdangnhap.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChethong.PCmanhinhchinh.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\MetroFramework.Design.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.Frmmain.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCgiaovien.Ucgiaovien.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCgiaovien.Ucdanhsachgiaovien.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCgiaovien.UClichgiangday.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCgiaovien.UCphanconggiangday.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\CircularProgressBar.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\WinFormAnimation.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChethong.UCprogressbar.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.csprojAssemblyReference.cache
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.Frmmain.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.Properties.Resources.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCgiaovien.Ucdanhsachgiaovien.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCgiaovien.Ucgiaovienmanhinhchinh.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCgiaovien.UCphancong.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCgiaovien.UCgiaovienthoiviec.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChethong.PCmanhinhchinh.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChethong.UCdangnhap.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChethong.UCprogressbar.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChocvien.UCDanhsachhocvien.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChocvien.UCdiemso.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChocvien.UCHocvienmanhinhchinh.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.csproj.GenerateResource.cache
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.csproj.CoreCompileInputs.cache
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\quanlitrungtamngoaingu.exe.config
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\quanlitrungtamngoaingu.exe
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\quanlitrungtamngoaingu.pdb
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\CircularProgressBar.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EntityFramework.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\MetroFramework.Design.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\MetroFramework.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\WinFormAnimation.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EntityFramework.xml
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.csproj.CopyComplete
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.exe
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.pdb
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UClophoc.UClophocmanhinhchinh.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UClophoc.UClophoc.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCDiemso.UCdiemsomanhinhchinh.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCkhoahoc.UCkhoahocmanhinhchinh.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCChungchi.UCchungchimanhinhchinnh.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCDiemdanh.UCDiemdanhmanhinhchinh.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCkhuyenmai.UCkhuyenmaimanhinhchinh.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.Thoigian.UCthoigianmanhinhchinh.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UClichgiang.UClichgiangmanhinhchinh.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCThongke.UCthongkemanhinhchinh.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChocvien.UCkhoahoc2.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EnvDTE.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\stdole.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCThongke.FormGV.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\RdlCompile.cache
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\RdlCompile.compiled
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCThongke.UserControlthongkegiaovien.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCThongke.FormHV.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCThongke.FormKQHT.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCChungchi.UCchungchi.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCThoigian.UCThoigianBieu.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCkhuyenmai.UCkhuyenmaitt.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCDiemdanh.UCdiemdanh.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.ucCaidat.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCcaidat.UCdoimatkhau.resources
+C:\Users\ww\Desktop\LẬP TRÌNH WINFORM\entity framework\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCGiupdo.UCgiupdomanhinhchinh.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.csprojAssemblyReference.cache
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.Frmmain.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.Properties.Resources.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.ucCaidat.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCcaidat.UCdoimatkhau.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCChungchi.UCchungchi.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCDiemdanh.UCdiemdanh.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCGiupdo.UCgiupdomanhinhchinh.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCkhuyenmai.UCkhuyenmaitt.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCThoigian.UCThoigianBieu.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.Thoigian.UCthoigianmanhinhchinh.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCChungchi.UCchungchimanhinhchinnh.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCDiemdanh.UCDiemdanhmanhinhchinh.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCDiemso.UCdiemsomanhinhchinh.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCgiaovien.Ucdanhsachgiaovien.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCgiaovien.Ucgiaovienmanhinhchinh.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCgiaovien.UCphancong.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCgiaovien.UCgiaovienthoiviec.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChethong.PCmanhinhchinh.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChethong.UCdangnhap.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChethong.UCprogressbar.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChocvien.UCDanhsachhocvien.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChocvien.UCdiemso.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChocvien.UCHocvienmanhinhchinh.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChocvien.UCkhoahoc2.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCkhoahoc.UCkhoahocmanhinhchinh.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCkhuyenmai.UCkhuyenmaimanhinhchinh.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UClichgiang.UClichgiangmanhinhchinh.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UClophoc.UClophoc.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UClophoc.UClophocmanhinhchinh.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCThongke.FormGV.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCThongke.FormHV.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCThongke.FormKQHT.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCThongke.UCthongkemanhinhchinh.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCThongke.UserControlthongkegiaovien.resources
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.csproj.GenerateResource.cache
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\RdlCompile.cache
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\RdlCompile.compiled
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.csproj.CoreCompileInputs.cache
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.exe
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.pdb
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\quanlitrungtamngoaingu.exe.config
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\quanlitrungtamngoaingu.exe
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\quanlitrungtamngoaingu.pdb
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\CircularProgressBar.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EntityFramework.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\MetroFramework.Design.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\MetroFramework.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\WinFormAnimation.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EnvDTE.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\stdole.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EntityFramework.xml
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.csproj.CopyComplete
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\quanlitrungtamngoaingu.exe.config
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\quanlitrungtamngoaingu.exe
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\quanlitrungtamngoaingu.pdb
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\CircularProgressBar.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EntityFramework.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\MetroFramework.Design.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\MetroFramework.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\WinFormAnimation.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EnvDTE.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\stdole.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EntityFramework.xml
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.csprojAssemblyReference.cache
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.Frmmain.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.Properties.Resources.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.ucCaidat.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCcaidat.UCdoimatkhau.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCChungchi.UCchungchi.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCDiemdanh.UCdiemdanh.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCGiupdo.UCgiupdomanhinhchinh.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCkhuyenmai.UCkhuyenmaitt.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCThoigian.UCThoigianBieu.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.Thoigian.UCthoigianmanhinhchinh.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCChungchi.UCchungchimanhinhchinnh.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCDiemdanh.UCDiemdanhmanhinhchinh.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCDiemso.UCdiemsomanhinhchinh.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCgiaovien.Ucdanhsachgiaovien.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCgiaovien.Ucgiaovienmanhinhchinh.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCgiaovien.UCphancong.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCgiaovien.UCgiaovienthoiviec.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChethong.PCmanhinhchinh.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChethong.UCdangnhap.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChethong.UCprogressbar.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChocvien.UCDanhsachhocvien.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChocvien.UCdiemso.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChocvien.UCHocvienmanhinhchinh.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UChocvien.UCkhoahoc2.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCkhoahoc.UCkhoahocmanhinhchinh.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCkhuyenmai.UCkhuyenmaimanhinhchinh.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UClichgiang.UClichgiangmanhinhchinh.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UClophoc.UClophoc.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UClophoc.UClophocmanhinhchinh.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCThongke.FormGV.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCThongke.FormHV.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCThongke.FormKQHT.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCThongke.UCthongkemanhinhchinh.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.UCThongke.UserControlthongkegiaovien.resources
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.csproj.GenerateResource.cache
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\RdlCompile.cache
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\RdlCompile.compiled
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.csproj.CoreCompileInputs.cache
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.csproj.CopyComplete
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.exe
+C:\Users\ww\Desktop\Nộp đồ án cuối kỳ\Quản lí ADO.net\quanlitrungtamngoaingu\quanlitrungtamngoaingu\obj\Debug\quanlitrungtamngoaingu.pdb

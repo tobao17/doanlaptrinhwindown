@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5e6cc7f264214cb79ebbe9d93d40796e" Name="Diagram1">
+        <EntityTypeShape EntityType="QuanLyTrungTamAnhVanModel.BAOLUU" Width="1.5" PointX="8.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTrungTamAnhVanModel.BIENLAI" Width="1.5" PointX="7.5" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTrungTamAnhVanModel.CHUNGCHI" Width="1.5" PointX="0.75" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTrungTamAnhVanModel.GIAOVIEN" Width="1.5" PointX="6" PointY="14.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTrungTamAnhVanModel.HOCVIEN" Width="1.5" PointX="5.25" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTrungTamAnhVanModel.KETQUAHOCTAP" Width="1.5" PointX="3" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTrungTamAnhVanModel.KHOA" Width="1.5" PointX="7.5" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTrungTamAnhVanModel.KHUYENMAI" Width="1.5" PointX="0.75" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTrungTamAnhVanModel.LOP" Width="1.5" PointX="3" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTrungTamAnhVanModel.NGUOIDUNG" Width="1.5" PointX="9.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTrungTamAnhVanModel.PHANCONG" Width="1.5" PointX="8.25" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTrungTamAnhVanModel.PHONGHOC" Width="1.5" PointX="0.75" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTrungTamAnhVanModel.sysdiagram" Width="1.5" PointX="2.75" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTrungTamAnhVanModel.THOIGIANHOC" Width="1.5" PointX="0.75" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyTrungTamAnhVanModel.TINHTRANG" Width="1.5" PointX="10.5" PointY="6.5" IsExpanded="true" />
+        <AssociationConnector Association="QuanLyTrungTamAnhVanModel.FK_TINHTRANG_BAOLUU" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyTrungTamAnhVanModel.FK_BIENLAI_HOCVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyTrungTamAnhVanModel.FK_LOP_CHUNGCHI" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyTrungTamAnhVanModel.FK_PHANCONG_GIAOVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyTrungTamAnhVanModel.FK_HOCVIEN_KETQUAHOCTAP" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyTrungTamAnhVanModel.FK_HOCVIEN_LOP" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyTrungTamAnhVanModel.FK_KHOA_HOCVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyTrungTamAnhVanModel.FK_TINHTRANG_HOCVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyTrungTamAnhVanModel.FK_LOP_KHUYENMAI" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyTrungTamAnhVanModel.FK_LOP_PHONGHOC" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyTrungTamAnhVanModel.FK_LOP_THOIGIANHOC" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyTrungTamAnhVanModel.FK_PHANCONG_LOP1" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyTrungTamAnhVanModel.FK_PHANCONG_PHONGHOC" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
